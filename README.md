@@ -43,8 +43,5 @@ If the labels are provided to the model, it automatically computes the loss valu
 ## Plots of MCC Score
 ![Alt text](mcc2.png)
 
-## Samples
-![Alt text](samples2.png)
-
 ### MCC Score
 The evaluation yielded an MCC score of 0.498
